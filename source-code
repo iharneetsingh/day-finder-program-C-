@@ -1,5 +1,5 @@
 // Please enter your birthday in this
-//     format(including spaces):
+//     format(also including spaces):
 //            DD MM YYYY
 //            25 06 1998
 #include <iostream>
